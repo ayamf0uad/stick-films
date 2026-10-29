@@ -1,0 +1,40 @@
+{
+  "title": "My Claude Code journey",
+  "sub": "walk in \u00b7 desk \u00b7 lessons \u00b7 what got built",
+  "assets": [
+    "assets/meme.mp4",
+    "assets/mus-score.mp3",
+    "assets/mus-comedy.mp3",
+    "assets/mus-cartoon.mp3",
+    "assets/mus-corporate.mp3",
+    "assets/mus-blooper.mp3"
+  ],
+  "beds": [
+    {
+      "key": "score",
+      "label": "Score",
+      "file": "mus-score.mp3",
+      "default": true
+    },
+    {
+      "key": "comedy",
+      "label": "Comedy",
+      "file": "mus-comedy.mp3"
+    },
+    {
+      "key": "cartoon",
+      "label": "Cartoon",
+      "file": "mus-cartoon.mp3"
+    },
+    {
+      "key": "corporate",
+      "label": "Corporate",
+      "file": "mus-corporate.mp3"
+    },
+    {
+      "key": "blooper",
+      "label": "Blooper",
+      "file": "mus-blooper.mp3"
+    }
+  ]
+}

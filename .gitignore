@@ -1,0 +1,10 @@
+node_modules
+st/
+*.webm
+.DS_Store
+
+# Media is bring-your-own: never commit clips, music, or the built films.
+films/*/assets/*
+!films/*/assets/README.md
+*-OPEN-ME.html
+reference/story-approved-OPEN-ME.html
